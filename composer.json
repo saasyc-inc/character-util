@@ -1,0 +1,17 @@
+{
+    "name": "yiche/character-util",
+    "license": "MIT",
+    "description": "过滤　不可见字符",
+    "authors": [
+        {
+            "name": "杨益民",
+            "email": "744541711@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CharacterUtil\\": "src/"
+        }
+    },
+    "minimum-stability":"dev"
+}
