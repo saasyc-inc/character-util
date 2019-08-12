@@ -1,7 +1,7 @@
 {
     "name": "yiche/character-util",
     "license": "MIT",
-    "description": "过滤　不可见字符",
+    "description": "过滤不可见字符",
     "authors": [
         {
             "name": "杨益民",

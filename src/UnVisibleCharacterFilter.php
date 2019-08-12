@@ -6,7 +6,7 @@
  * Time: 11:43 AM
  */
 
-namespace ApolloConfig;
+namespace CharacterUtil;
 
 class UnVisibleCharacterFilter
 {
